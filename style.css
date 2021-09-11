@@ -1,0 +1,44 @@
+body {
+	text-align: center;
+	background-color:darkturquoise;
+}
+
+#image {
+	width: 450px;
+}
+
+h1 {
+	font-family: Monotype corsiva;
+	font-size: 45px;
+}
+
+h2 {
+	font-family: Monotype corsiva;
+	font-size: 40px;
+}
+
+p {
+	font-family: freestyle script;
+	font-size: 50px;
+}
+
+#welcome {
+	background-image: linear-gradient(lightblue, violet, lavender);
+
+}
+
+#about {
+	background-color: cornflowerblue;
+}
+
+#img {
+	transform: scale(5.0);
+}
+
+.links {
+	font-size: 25px;
+}
+#contact{
+	text-align: center;
+	font-size: 35px;
+}
